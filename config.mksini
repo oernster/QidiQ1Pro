@@ -1,0 +1,45 @@
+
+[fila]
+enable                         = 1
+
+
+[target]
+extruder                       = 230
+heaterbed                      = 105
+hot                            = 55
+
+
+[babystep]
+value                          = 0.000
+adxl_offset                    = 0.15
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 1
+
+
+[app_connection]
+method                         = 1
+
+
+[app_server]
+name                           = aws
+
+
+[total]
+time                           = 3709
+
+
+[app]
+device_code                    = ftut73ja
+subdomain                      = 5g3291nbp5weh145pc
+token                          = 
+username                       = 
+avatar                         = 
+bind_status                    = 
+
+
